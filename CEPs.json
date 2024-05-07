@@ -1,0 +1,20 @@
+[
+  {
+    "cep": "59138-410",
+    "logradouro": "Rua dos Pífanos",
+    "complemento": "",
+    "bairro": "Lagoa Azul",
+    "localidade": "Natal",
+    "uf": "RN",
+    "ddd": "84"
+  },
+  {
+    "cep": "59122-410",
+    "logradouro": "Rua do Cajueiro",
+    "complemento": "",
+    "bairro": "Redinha",
+    "localidade": "Natal",
+    "uf": "RN",
+    "ddd": "84"
+  }
+]
